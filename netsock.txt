@@ -1,0 +1,10 @@
+
+--> Run the cmd as adminstrator.
+
+
+1.netsh winsock reset (then restart computer).
+
+
+
+
+2.netcfg -d (then restart the computer).
